@@ -4,3 +4,4 @@
 - [2026-04-28T08:13:57Z] fix: resolve edge case in input validation
 - [2026-04-28T21:01:21Z] style: apply consistent code formatting
 - [2026-04-28T13:29:07Z] docs: update README with usage examples
+- [2026-04-28T13:09:42Z] feat: add helper utility function

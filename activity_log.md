@@ -5,3 +5,4 @@
 - [2026-04-28T21:01:21Z] style: apply consistent code formatting
 - [2026-04-28T13:29:07Z] docs: update README with usage examples
 - [2026-04-28T13:09:42Z] feat: add helper utility function
+- [2026-04-28T20:30:17Z] chore: update dependencies to latest versions
